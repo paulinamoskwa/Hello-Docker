@@ -40,7 +40,7 @@ A practical example could be:
 docker build -t docker_firefox github.com/creack/docker-firefox
 ```
  
-3. Run the Docker container: starting from an image, to create a running Docker 
+3. Run the Docker container. Starting from an image, to create a running Docker 
 container we can use the `docker run` command, specifying both the name we want
 to give to the container and the name of the Docker image.<br>
 The basic syntax is:
