@@ -123,8 +123,8 @@ docker stop hello_docker_container
 ```
 
 -----------
-If we don't need the container or the image, we can delete them both. Again, 
-this is possible to be done from Docker Desktop:
+If we don't need the container or the image, we can delete them both. <br>
+Again, this is possible to be done from Docker Desktop:
 <p align="center">
 <img src='./media/docker_04.png' width='800'/>
 </p>
