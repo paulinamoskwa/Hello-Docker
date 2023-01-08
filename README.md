@@ -149,10 +149,9 @@ docker image rm hello_docker
 ```
 
 ## Useful _semi_-Off-Topic
-A good guide to install Docker on Windows:
-https://www.youtube.com/watch?v=2ezNqqaSjq8&t=625s&ab_channel=TheCodeholic
+A good guide to [install Docker on Windows](https://www.youtube.com/watch?v=2ezNqqaSjq8&t=625s&ab_channel=TheCodeholic).
 
-Moreover, make sure to always have this checkbox checked:
+Moreover, in Docker Desktop settings, make sure to always have this checkbox checked:
 <p align="center">
 <img src='./media/docker_05.png' width='800'/>
 </p>
