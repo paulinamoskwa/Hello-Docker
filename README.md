@@ -48,7 +48,7 @@ The basic syntax is:
 docker run -d --name=<container-name> <image-name> sleep infinity
 ```
 
-4. Execute commands: now that the container is created, and it is running, we can
+4. Execute commands. Now that the container is created, and it is running, we can
 execute commands in it using the `docker exec` command..<br>
 The basic syntax is:
 ```commandline
