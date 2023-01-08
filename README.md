@@ -107,7 +107,7 @@ docker exec hello_docker_container python3 main.py
 ```
 
 ## Docker Extras
-Once we are done with everything, we should stop the container from running.
+Once we are done with everything, we should stop the container from running.<br>
 It is possible to do it from Docker Desktop:
 <p align="center">
 <img src='./media/docker_03.png' width='800'/>
